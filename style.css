@@ -428,3 +428,7 @@
         bottom: 730px;
         left: 60px;
     }
+    a{
+        text-decoration: none;
+        color: white;
+    }
